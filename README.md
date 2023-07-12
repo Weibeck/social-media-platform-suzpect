@@ -2,6 +2,11 @@
 
 This is a simple social media app that i built using React Native and Expo.
 
+![Screenshot_1](./screenshots/screenshot_1.png)
+![Screenshot_2](./screenshots/screenshot_2.png)
+![Screenshot_3](./screenshots/screenshot_3.png)
+![Screenshot_4](./screenshots/screenshot_4.png)
+
 ## Description
 
 This project was built as a way to learn React Native. It includes features like a home screen with a feed of posts, a notifications screen, and the ability to add new posts.
