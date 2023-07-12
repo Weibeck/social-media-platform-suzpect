@@ -2,10 +2,10 @@
 
 This is a simple social media app that i built using React Native and Expo.
 
-<img src="./screenshots/screenshot_1.png" width="200">
-<img src="./screenshots/screenshot_2.png" width="200">
-<img src="./screenshots/screenshot_3.png" width="200">
-<img src="./screenshots/screenshot_4.png" width="200">
+<img src="./screenshots/Screenshot_1.png" width="200">
+<img src="./screenshots/Screenshot_2.png" width="200">
+<img src="./screenshots/Screenshot_3.png" width="200">
+<img src="./screenshots/Screenshot_4.png" width="200">
 
 
 ## Description
