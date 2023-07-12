@@ -15,7 +15,7 @@ No backend has been added to the project as of yet.
 
 To get started with this project, do the following:
 
-1. Clone the repository: `git clone https://github.com/username/repository.git`
+1. Clone the repository: `git clone https://github.com/Weibeck/social-media-react-app-suzpect`
 2. Navigate to the project directory: `cd repository`
 3. Install the dependencies: `npm install`
 4. Start the project: `npm start`
