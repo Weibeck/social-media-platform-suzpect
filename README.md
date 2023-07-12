@@ -8,7 +8,7 @@ This is a simple social media app that i built using React Native and Expo.
 
 ## Description
 
-This project was built as a way to learn React Native. It includes features like a home screen with a feed of posts, a notifications screen, and the ability to add new posts.
+This project was built as a way to learn React Native. It includes features like a home screen with a feed of posts, a profile page with bio, gallery and activity, a notifications screen, and the ability to add new posts.
 
 No backend has been added to the project as of yet.
 ## Setup and Installation
