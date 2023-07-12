@@ -1,6 +1,6 @@
 # Social Media App - Suzpect
 
-This is a simple social media app that i built using React Native.
+This is a simple social media app that i built using React Native and Expo.
 
 ## Description
 
